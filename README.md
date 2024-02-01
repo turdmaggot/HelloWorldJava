@@ -1,5 +1,5 @@
 
-# HelloWorld.java
+# HelloWorldJava
 
 A kickstart project for Java for beginners so they can understand the compilation and running process.
 
@@ -17,7 +17,7 @@ I suggest you get a copy of Headfirst Java. That book really has it all and will
 
 ## To Compile
 
-To deploy this project run
+To compile this project, type and run:
 
 ```bash
   javac HelloWorld.java
@@ -26,7 +26,7 @@ This should compile your code and generate the class file.
 
 ## To Run
 
-To deploy this project run
+To run your compiled code:
 
 ```bash
   java HelloWorld
